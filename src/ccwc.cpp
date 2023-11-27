@@ -38,7 +38,8 @@ int byteCount(const std::string& input)
 }
 
 
-int lineCount(const std::string& fileContent) {
+int lineCount(const std::string& fileContent) 
+{
     std::istringstream iss(fileContent);
     int lineCount = 0;
     std::string line;
