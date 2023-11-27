@@ -1,5 +1,3 @@
-// ccwc_main.cpp
-
 #include <iostream>
 #include <fstream>
 #include "ccwc.h"
